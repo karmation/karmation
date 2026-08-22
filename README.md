@@ -1,19 +1,10 @@
 <!-- KRM//NULL — SYSTEM ONLINE -->
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:1a0033,70:4f1271,100:00f2fe&height=220&section=header&text=KRM%2F%2FNULL&fontSize=72&fontColor=00f2fe&animation=twinkling&desc=%3E%20SYSTEM%20ONLINE%20%7C%20BUILDING%20THINGS%20THAT%20SHOULDN%27T%20WORK...%20UNTIL%20THEY%20DO.&descSize=16&descColor=c084fc&fontAlignY=38&descAlignY=58)
+
 <div align="center">
 
-```
-██╗  ██╗██████╗ ███╗   ███╗//███╗   ██╗██╗   ██╗██╗     ██╗
-██║ ██╔╝██╔══██╗████╗ ████║//████╗  ██║██║   ██║██║     ██║
-█████╔╝ ██████╔╝██╔████╔██║//██╔██╗ ██║██║   ██║██║     ██║
-██╔═██╗ ██╔══██╗██║╚██╔╝██║//██║╚██╗██║██║   ██║██║     ██║
-██║  ██╗██║  ██║██║ ╚═╝ ██║//██║ ╚████║╚██████╔╝███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝//╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
-```
-
-### `> SYSTEM ONLINE`
-
-### `> building things that shouldn't work... until they do.`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+ONLINE...;%3E+DEV+%7C+AI+ENGINEER+%7C+SECURITY+RESEARCHER+%7C+LINUX+ENTHUSIAST+%F0%9F%94%A5;%3E+building+things+that+shouldn%27t+work...+until+they+do.;%3E+KRM%2F%2FSYS_2026+%E2%80%94+ACCESS+GRANTED" alt="Typing SVG" />
 
 </div>
 
@@ -22,11 +13,13 @@
 
 <div align="center">
 
+![Status](https://img.shields.io/badge/STATUS-ONLINE-0b0b10?style=for-the-badge&logo=ghost&logoColor=00f7ff&labelColor=050510)
+![Mode](https://img.shields.io/badge/MODE-BUILD%20%2F%20BREAK%20%2F%20LEARN-0b0b10?style=for-the-badge&logo=githubactions&logoColor=a855f7&labelColor=050510)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%7C%20LINUX%20%7C%20SECURITY-0b0b10?style=for-the-badge&logo=probot&logoColor=22d3ee&labelColor=050510)
+
+`KRM//SYS_2026` &nbsp;•&nbsp; 🟣 `ONLINE` &nbsp;•&nbsp; `UPTIME: 0x1A3F::2B7C` &nbsp;•&nbsp; `LOCATION: EARTH`
+
 `> DEV` &nbsp;&nbsp; `> AI ENGINEER` &nbsp;&nbsp; `> SECURITY RESEARCHER` &nbsp;&nbsp; `> LINUX ENTHUSIAST` 🔥
-
-<br/>
-
-`KRM//SYS_2026` &nbsp; • &nbsp; 🟣 `ONLINE` &nbsp; • &nbsp; `UPTIME: 0x1A3F::2B7C` &nbsp; • &nbsp; `LOCATION: EARTH`
 
 </div>
 
@@ -38,7 +31,7 @@
 <tr>
 <td width="25%" valign="top">
 
-**`01 / MODIFI`** &nbsp; `▶`
+**`01 / MODIFI`** &nbsp;`▶`
 
 **LOCAL IMAGE + PDF TOOLKIT**
 
@@ -51,7 +44,7 @@ Privacy-first Flutter utility suite for image processing, OCR, document manipula
 </td>
 <td width="25%" valign="top">
 
-**`02 / MANGA READER`** &nbsp; `📖`
+**`02 / MANGA READER`** &nbsp;`📖`
 
 **AI-ASSISTED READING SYSTEM**
 
@@ -64,7 +57,7 @@ Offline reading, OCR, translation, image processing, source systems and AI exper
 </td>
 <td width="25%" valign="top">
 
-**`03 / AI OPS`** &nbsp; `⚡`
+**`03 / AI OPS`** &nbsp;`⚡`
 
 **AI OPERATIONAL WORKSPACE**
 
@@ -77,7 +70,7 @@ Experimenting with AI routing, adaptive interfaces, automation and command-drive
 </td>
 <td width="25%" valign="top">
 
-**`04 / SECURITY LAB`** &nbsp; `🛡`
+**`04 / SECURITY LAB`** &nbsp;`🛡`
 
 **BREAK IT. UNDERSTAND IT.**
 
@@ -177,6 +170,18 @@ krm@null:~$ █
 
 ---
 
+## `// CONTRIBUTION MATRIX`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karmation/karmation/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karmation/karmation/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/karmation/karmation/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 ## `// NOW LOADING`
 
 <div align="center">
@@ -267,14 +272,4 @@ krm@null:~$ █
 </tr>
 </table>
 
----
-
-<div align="center">
-
-```
-> Thanks for visiting. Let's build something dangerous.
-```
-
-☠️
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,30:4f1271,70:1a0033,100:090014&height=120&section=footer&text=%3E+Thanks+for+visiting.+Let%27s+build+something+dangerous.&fontSize=16&fontColor=c084fc&fontAlignY=65)
