@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+ONLINE...;%3E+DEV+%7C+AI+ENGINEER+%7C+SECURITY+RESEARCHER+%7C+LINUX+ENTHUSIAST+%F0%9F%94%A5;%3E+building+things+that+shouldn%27t+work...+until+they+do.;%3E+KRM%2F%2FSYS_2026+%E2%80%94+ACCESS+GRANTED" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=50&lines=%3E+SYSTEM+ONLINE...;%3E+DEV+%7C+AI+ENGINEER+%7C+SECURITY+RESEARCHER+%7C+LINUX+ENTHUSIAST+%F0%9F%94%A5;%3E+building+things+that+shouldn%27t+work...+until+they+do.;%3E+KRM%2F%2FSYS_2026+%E2%80%94+ACCESS+GRANTED;%3E+caffeine+powered.+curiosity+driven." alt="Typing SVG" />
 
 </div>
 
@@ -20,6 +20,9 @@
 `KRM//SYS_2026` &nbsp;•&nbsp; 🟣 `ONLINE` &nbsp;•&nbsp; `UPTIME: 0x1A3F::2B7C` &nbsp;•&nbsp; `LOCATION: EARTH`
 
 `> DEV` &nbsp;&nbsp; `> AI ENGINEER` &nbsp;&nbsp; `> SECURITY RESEARCHER` &nbsp;&nbsp; `> LINUX ENTHUSIAST` 🔥
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=karmation&style=for-the-badge&color=7c3aed&labelColor=050510&label=VISITORS)
 
 </div>
 
@@ -146,7 +149,7 @@ NOW LOADING
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ```bash
 krm@null:~$ whoami
@@ -156,13 +159,23 @@ krm@null:~$ whoami
 krm@null:~$ █
 ```
 
+<br/>
+
+<!-- Hacker typing GIF -->
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Hacker Typing" />
+
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 > *"Some people dream of success.*
 > *I stay up and build it."*
 >
 > **— KRM//NULL**
+
+<br/>
+
+<!-- Cyberpunk city GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyber Grid" />
 
 </td>
 </tr>
@@ -170,7 +183,26 @@ krm@null:~$ █
 
 ---
 
+## `// STATS TERMINAL`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karmation&show_icons=true&theme=radical&bg_color=050510&border_color=7c3aed&title_color=00f7ff&icon_color=a855f7&text_color=c084fc&hide_border=false&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmation&layout=compact&theme=radical&bg_color=050510&border_color=7c3aed&title_color=00f7ff&text_color=c084fc&hide_border=false&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=karmation&theme=radical&background=050510&border=7c3aed&stroke=7c3aed&ring=00f7ff&fire=a855f7&currStreakNum=00f7ff&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=c084fc&hide_border=false" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ## `// CONTRIBUTION MATRIX`
+
+<!-- Matrix rain GIF banner -->
+<img src="https://media.giphy.com/media/bTzFnjHPzpE5y/giphy.gif" width="100%" alt="Matrix Code Rain" />
 
 <p align="center">
   <picture>
@@ -179,6 +211,16 @@ krm@null:~$ █
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/karmation/karmation/output/github-snake-dark.svg" width="100%" />
   </picture>
 </p>
+
+---
+
+## `// TROPHIES`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karmation&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
@@ -221,6 +263,11 @@ krm@null:~$ █
 </tr>
 </table>
 
+<br/>
+
+<!-- Futuristic HUD GIF -->
+<img src="https://media.giphy.com/media/coxQHKASG60HrJaLF5/giphy.gif" width="80%" alt="Cyber HUD" />
+
 </div>
 
 ---
@@ -253,6 +300,11 @@ VERSION: 5.0.0
 krm@null:~$ █
 ```
 
+<br/>
+
+<!-- Matrix terminal GIF -->
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="100%" alt="Matrix Terminal" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -267,6 +319,11 @@ krm@null:~$ █
 [![Email](https://img.shields.io/badge/EMAIL-0b0b10?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:karmation@gmail.com)
 &nbsp;
 [![Resume](https://img.shields.io/badge/RESUME-0b0b10?style=for-the-badge&logo=adobeacrobatreader&logoColor=a855f7)](https://github.com/karmation)
+
+<br/><br/>
+
+<!-- Cyberpunk neon city GIF -->
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Cyberpunk City" />
 
 </td>
 </tr>
